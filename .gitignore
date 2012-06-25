@@ -1,0 +1,6 @@
+*.gem
+*.tar.gz
+rdoc
+Gemfile.lock
+html
+pkg
